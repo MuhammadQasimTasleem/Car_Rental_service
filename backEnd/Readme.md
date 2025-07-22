@@ -171,7 +171,7 @@ cd swiftdrive
 npm install
 
 # Start the server
-npm start
+npm run dev
 ```
 
 ## Future Enhancements
